@@ -1,0 +1,16 @@
+.big{
+    color: DodgerBlue;
+    padding: 40px;
+    font-family: Sans-Serif;
+    text-align: center;
+  }
+
+  p{
+    color: #111010;
+  }
+  h1{
+    color: rgb(129, 127, 255);
+  }
+  div{
+    background-color: #ec0b0b;
+  }
