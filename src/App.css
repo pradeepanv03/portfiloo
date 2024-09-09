@@ -1,0 +1,28 @@
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #0c283d;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #144468 ;
+  border-radius: 12px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background:#397ec0;
+  border-radius: 12px;
+}
+
+.purple {
+  color: #b45f06 ;
+}
+
+body{
+  background-color: #00181d;
+}
