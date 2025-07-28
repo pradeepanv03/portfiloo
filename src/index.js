@@ -15,8 +15,8 @@ root.render(
   <React.StrictMode>
     {/* <Style/> */}
     {/* <Style1/> */}
-    <Carousels/>
-    {/* <App /> */}
+    {/* <Carousels/> */}
+    <App />
     {/* <Slider/>  */}
     {/* <Slider1 /> */}
     {/* <Slider2 /> */}

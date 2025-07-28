@@ -1,0 +1,88 @@
+.sidebar {
+  width: 280px;
+  background: #fff;
+  border-right: 1px solid #eee;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+  height: 100vh;
+  font-family: 'Poppins', sans-serif;
+}
+
+.profile {
+  text-align: center;
+}
+
+.avatar {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.profile h2 {
+  font-size: 20px;
+  margin: 5px 0;
+}
+
+.profile p {
+  font-size: 14px;
+  color: #666;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 10px;
+  color: #888;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 30px;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  /* padding: 10px; */
+  text-decoration: none;
+  color: #333;
+  border-radius: 10px;
+  transition: background 0.3s;
+}
+
+.nav:hover,
+.nav.active {
+  background-color: #85b9ad;
+  color: #fff;
+}
+
+.badge {
+  background-color: #d8efe2;
+  color: #4e9b83;
+  font-size: 12px;
+  /* padding: 6px 6px; */
+  border-radius: 10px;
+  margin-left: auto;
+}
+
+.hire-me {
+  text-align: center;
+  margin-top: auto;
+}
+
+.hire-me button {
+  background-color: #85b9ad;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
