@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/portfiloo/static/css/main.3a1d9ed3.css",
-    "main.js": "/portfiloo/static/js/main.5bd64a97.js",
+    "main.js": "/portfiloo/static/js/main.85e2d901.js",
     "static/js/453.01362e58.chunk.js": "/portfiloo/static/js/453.01362e58.chunk.js",
-    "static/media/PRADEEPAN_V_React_Js_Developer.pdf": "/portfiloo/static/media/PRADEEPAN_V_React_Js_Developer.d80edcd5c0db69e12991.pdf",
+    "static/media/PRADEEPAN_V_React_Js_Developer.pdf": "/portfiloo/static/media/PRADEEPAN_V_React_Js_Developer.24498ed5df8080832813.pdf",
     "index.html": "/portfiloo/index.html",
     "main.3a1d9ed3.css.map": "/portfiloo/static/css/main.3a1d9ed3.css.map",
-    "main.5bd64a97.js.map": "/portfiloo/static/js/main.5bd64a97.js.map",
+    "main.85e2d901.js.map": "/portfiloo/static/js/main.85e2d901.js.map",
     "453.01362e58.chunk.js.map": "/portfiloo/static/js/453.01362e58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a1d9ed3.css",
-    "static/js/main.5bd64a97.js"
+    "static/js/main.85e2d901.js"
   ]
 }
